@@ -1,4 +1,4 @@
-# Bayesian-optimization-based-hyperparameters-tuning-for-a-neural-network
+# Bayesian-optimization-based-hyperparameters-tuning-of-a-neural-network
 
 A bayesian optimization based hyperparameter tuning of a neural network has been performed in this code. Following hyperparameters have been tuned:
 
